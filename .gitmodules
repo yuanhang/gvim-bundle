@@ -4,3 +4,60 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/langs/javascript"]
+	path = bundle/langs/javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/langs/markdown"]
+	path = bundle/langs/markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/langs/coffeescript"]
+	path = bundle/langs/coffeescript
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/langs/rails"]
+	path = bundle/langs/rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/langs/git"]
+	path = bundle/langs/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "bundle/langs/textile"]
+	path = bundle/langs/textile
+	url = https://github.com/timcharper/textile.vim.git
+[submodule "bundle/langs/scss"]
+	path = bundle/langs/scss
+	url = https://github.com/cakebaker/scss-syntax.vim.git
+[submodule "bundle/langs/rspec"]
+	path = bundle/langs/rspec
+	url = https://github.com/skwp/vim-rspec.git
+[submodule "bundle/langs/csv"]
+	path = bundle/langs/csv
+	url = https://github.com/chrisbra/csv.vim.git
+[submodule "bundle/langs/nodejs"]
+	path = bundle/langs/nodejs
+	url = https://github.com/mmalecki/vim-node.js.git
+[submodule "bundle/langs/ruby"]
+	path = bundle/langs/ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/langs/haskell"]
+	path = bundle/langs/haskell
+	url = https://github.com/wlangstroth/vim-haskell.git
+[submodule "bundle/tools/nerdcommenter"]
+	path = bundle/tools/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/tools/ack"]
+	path = bundle/tools/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/tools/surround"]
+	path = bundle/tools/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/tools/nerdtree"]
+	path = bundle/tools/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/tools/ctrlp"]
+	path = bundle/tools/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/tools/snipmate"]
+	path = bundle/tools/snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "bundle/tools/css-color"]
+	path = bundle/tools/css-color
+	url = https://github.com/ap/vim-css-color.git
