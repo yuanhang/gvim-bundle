@@ -1,3 +1,5 @@
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+execute pathogen#infect()
 set nocompatible                " choose no compatibility with legacy vi
 syntax enable
 set encoding=utf-8
@@ -16,7 +18,7 @@ set hlsearch                    " highlight matches
 set incsearch                   " incremental searching
 set ignorecase                  " searches are case insensitive...
 set smartcase                   " ... unless they contain at least one capital letter
-color desert
+color solarized
 if has("gui_running")
   nnoremap <c-j> <c-w><c-w>
   nnoremap <c-k> <c-w>W
