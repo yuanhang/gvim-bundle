@@ -15,5 +15,7 @@ git submodule add https://github.com/mileszs/ack.vim.git bundle/tools/ack
 git submodule add https://github.com/tpope/vim-surround.git bundle/tools/surround
 git submodule add https://github.com/scrooloose/nerdtree.git bundle/tools/nerdtree
 git submodule add https://github.com/kien/ctrlp.vim.git bundle/tools/ctrlp
+git submodule add https://github.com/tomtom/tlib_vim.git bundle/tools/tlib
+git submodule add https://github.com/MarcWeber/vim-addon-mw-utils.git bundle/tools/vim-addon-mw-utils
 git submodule add https://github.com/garbas/vim-snipmate.git bundle/tools/snipmate
 git submodule add https://github.com/ap/vim-css-color.git bundle/tools/css-color
